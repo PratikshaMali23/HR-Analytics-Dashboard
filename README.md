@@ -7,26 +7,41 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 Tech Stack
 
 Power BI Desktop – Dashboard Development & Visualization
+
 Power Query – Data Cleaning & Transformation
+
 DAX (Data Analysis Expressions) – KPI Calculations & Measures
+
 Data Modeling – Relationship Management
+
 Interactive Visualizations – KPI Cards, Bar Charts, Donut Chart, Line Chart, Matrix Table, and Slicers
 
 Features / Highlights
 
 📊 Interactive dashboard with department-level filtering (HR, R&D, Sales).
+
 📈 Displays key HR KPIs including Total Employees, Attrition, Attrition Rate, Average Age, Average Salary, and Average Years at Company.
+
 👥 Analyzes employee attrition by Age Group, Gender, Education, Salary Slab, and Job Role.
+
 🎯 Identifies high-risk employee segments contributing to workforce attrition.
+
 📉 Provides salary-wise and job role-wise attrition insights for better retention planning.
+
 📚 Education-wise attrition analysis to understand employee background trends.
+
 🔄 Dynamic visuals and slicers for interactive exploration of HR data.
+
 💡 Supports data-driven HR strategies by uncovering patterns in employee turnover and workforce demographics.
 
 Business Value
 
 This dashboard enables HR professionals to:
+
 Monitor workforce health and employee turnover.
+
 Identify departments and job roles with high attrition.
+
 Understand demographic and salary-related attrition patterns.
+
 Support strategic HR planning and employee retention initiatives
